@@ -1,0 +1,25 @@
+{
+  "NAME": "KerbealisticDocking",
+  "URL": "https://github.com/kurgut/KerbealisticDocking",
+  "DOWNLOAD": "https://github.com/kurgut/KerbealisticDocking/releases",
+  "GITHUB": {
+    "USERNAME": "kurgut",
+    "REPOSITORY": "KerbealisticDocking"
+  },
+  "VERSION": {
+    "MAJOR": 1,
+    "MINOR": 0,
+    "PATCH": 0,
+    "BUILD": 0
+  },
+  "KSP_VERSION": {
+    "MAJOR": 1,
+    "MINOR": 12,
+    "PATCH": 5
+  },
+  "KSP_VERSION_MIN": {
+    "MAJOR": 1,
+    "MINOR": 10,
+    "PATCH": 1
+  }
+}
